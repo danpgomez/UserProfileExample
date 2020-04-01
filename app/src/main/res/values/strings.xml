@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UserProfileExample</string>
+    <string name="bio_text">Barry Allen is a Graphic Designer with over 30 years of successful experience in both print and digital media. Barry specializes in the latest technologies and regularly attends national training sessions to showcase new and innovative tech trends, such as designs for self-service, wellness apps, and people analytics tools. A strong believer in the power of positive thinking in the workplace, Barry regularly develops internal wellness campaigns to assist employees with effective mental health techniques. Barry enjoys a good Netflix series but can also be found on long hikes across hilly country roads.</string>
+    <string name="update_status">Update Status</string>
+    <string name="status_hint">What\'s your status?</string>
+    <string name="user_profile_image">User profile image</string>
+    <string name="office_seating_chart">Office seating chart</string>
+    <string name="barry_allen">Barry Allen</string>
+</resources>
